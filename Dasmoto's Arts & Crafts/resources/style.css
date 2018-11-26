@@ -1,0 +1,14 @@
+h1, h2, h3 {font-family: helvetica, sans serif; font-weight: bold;}
+
+h1 {background-color: brown; background-image: url("./images/image1pattern.jpeg");
+font-size:100px; color:khaki; text-align: center;}
+
+h2 {color:white; font-size:32px;}
+
+p {font-family: helvetica, sans-serif; font-weight:normal;}
+
+.pricerange {font-weight: bold; color:blue;}
+
+.brushes h2 {background-color: mediumspringgreen;}
+.frames h2 {background-color: lightcoral;}
+.paints h2 {background-color: skyblue;}
